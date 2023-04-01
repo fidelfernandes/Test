@@ -12892,7 +12892,6 @@
                   "resquarify",
                   "binary",
                   "dice",
-                  "slice",
                   "slicedice"
                 ]
               },
