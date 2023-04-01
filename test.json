@@ -1,6 +1,3 @@
-// 20230401123004
-// https://vega.github.io/schema/vega/v5.json
-
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
     "title": "Vega Visualization Specification Language",
